@@ -68,11 +68,11 @@ DEVELOPER :SHOHAG-KHAN
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/TEAMCYBER03
+https://www.facebook.com/sahed.hossen.829
 
-🔵WHATSAPP NUMBER: No
+🔵WHATSAPP NUMBER: 01919568467
 
-🟢SUPPORT EMAIL: team-cyber03@outlook.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: mentalsahed@yandex.com`, attachment: fs.createReadStream(gifPath)}, threadID));
 })
 .catch(error => {
     console.error(error);
