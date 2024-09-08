@@ -2,7 +2,7 @@
 module.exports.config = {
   name: "pair",
   version: "1.0.0",
-  hermssion: 0,
+  permssion: 0,
   prefix: true,
   credits: "Nayan",
   description: "It's a compound :>",
