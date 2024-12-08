@@ -68,9 +68,9 @@ DEVELOPER : SAHED HOSSEN
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/sahed.hossen.829
+https://www.facebook.com/Sumaiya.ily.bbe
 
-🔵WHATSAPP NUMBER: 01919568467
+🔵WHATSAPP NUMBER: 01739597712
 
 🟢SUPPORT EMAIL: mentalsahed@yandex.com`, attachment: fs.createReadStream(gifPath)}, threadID));
 })
